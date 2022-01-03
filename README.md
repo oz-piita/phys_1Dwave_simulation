@@ -28,6 +28,5 @@ FTCS
 
 # Author
 
-作成情報を列挙する
 
 * oz-piita
